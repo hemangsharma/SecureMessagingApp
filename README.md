@@ -14,7 +14,7 @@ A simple yet secure RSA-based encryption and decryption tool for text messages. 
 - License
 
 <p align="center">
-[](output.png)
+<img src="output.png">
 </p>
 
 ## Business & Product Understanding
